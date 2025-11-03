@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.env
+.cache/
+*.pkl
+.DS_Store
+Thumbs.db
+knowledge/

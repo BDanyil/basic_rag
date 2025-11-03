@@ -1,0 +1,6 @@
+# LLM interaction
+litellm>=1.45.0
+
+# Embeddings and vector operations
+numpy<2
+sentence-transformers>=2.2.2
